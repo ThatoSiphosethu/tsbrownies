@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>TS' Brownies</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+          integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="tsbrownies.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <meta name="author" content="Thato Ramalepa">
+
+</head>
+<body>
+<div id="wrapper" class="bg">
+    <div class="container">
+    <header>
+        <h1>TS' Brownies</h1>
+    </header>
+
+    <nav>
+        <div>
+            <ul>
+                <li><a href="homepage.html">Home</a></li>
+                <li><a href="Our%20Products.html">Our Products</a></li>
+                <li><a href="Fan%20Favorites.html">Fan Favorites</a></li>
+                <li><a href="Checkout.html">Checkout</a></li>
+                <li><a href="Contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <h2>Contact Us</h2>
+
+        <p>Required field marked with an asterisk </p>
+
+        <form method="post" action="https://webdevbasics.net/scripts/pacific.php">
+
+            <label for="myFName">*First Name:</label>
+            <input id="myFName" name="myFName" type="text" required>
+
+            <label for="myLName">*Last Name:</label>
+            <input id="myLName" name="myFName" type="text" required>
+
+            <label for="myEmail">*E-mail:</label>
+            <input id="myEmail" name="myEmail" type="email" size="35" required>
+
+            <label for="myPhone">*Phone:</label>
+            <input id="myPhone" name="myPhone" type="tel" maxlength="12" required>
+
+            <label for="orderDate">Order Date:</label>
+            <input id="orderDate" name="orderDate" type="date">
+
+            <label for="size">Order Size:</label>
+            <input id="size" name="Order Size" type="number" min="6" max="18">
+
+            <label for="myComments">*Allergies:</label>
+            <textarea id="myComments" name="myComments" rows="2" col="30" required></textarea>
+
+
+            <input type="submit" value="Submit">
+
+        </form>
+
+    </main>
+    </div>
+        <footer>
+
+            Copyright &copy; 2020 TS' Brownies<br>
+            Thato Ramalepa - <a href="mailto:tramalepa@my.wctc.edu">tramalepa@my.wctc.edu</a><br>
+
+        </footer>
+
+
+</div>
+<script crossorigin="anonymous"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+        src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
