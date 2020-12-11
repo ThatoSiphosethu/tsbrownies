@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2b718dd-03a8-4bd2-a066-eaaaad89f859" name="Default Changelist" comment="" />
+    <list default="true" id="b2b718dd-03a8-4bd2-a066-eaaaad89f859" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/Cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/Checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fan Favorites.html" beforeDir="false" afterPath="$PROJECT_DIR$/Fan Favorites.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Our Products.html" beforeDir="false" afterPath="$PROJECT_DIR$/Our Products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsbrownies.css" beforeDir="false" afterPath="$PROJECT_DIR$/tsbrownies.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +22,8 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="jQuery JS" />
+        <option value="jQuery HTML" />
       </list>
     </option>
   </component>
@@ -65,11 +77,37 @@
       <workItem from="1602034578419" duration="2425000" />
       <workItem from="1602042131112" duration="930000" />
       <workItem from="1602044865070" duration="635000" />
-      <workItem from="1602112317634" duration="1897000" />
+      <workItem from="1602112317634" duration="2626000" />
+      <workItem from="1602298123856" duration="602000" />
+      <workItem from="1602617232072" duration="639000" />
+      <workItem from="1603213096599" duration="17000" />
+      <workItem from="1603220915245" duration="67000" />
+      <workItem from="1606960101470" duration="1238000" />
+      <workItem from="1607031687447" duration="261000" />
+      <workItem from="1607624771175" duration="10714000" />
+      <workItem from="1607647869162" duration="11204000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1602117519492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602117519492" />
+    <state x="644" y="310" key="Github.ShareDialog" timestamp="1602117599971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="644" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1602117599971" />
+    <state x="555" y="117" key="Github.UntrackedFilesDialog" timestamp="1602117606906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602117606906" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602117618597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602117618597" />
   </component>
 </project>
